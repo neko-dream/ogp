@@ -1,7 +1,12 @@
-<h1 align="center">猫の夢のOGPを作成するAPIサーバー</h1>
+<p align="center">
+  <a href="crypto-asset-card.vercel.app/home">
+    <img src="./assets/image.png" height="176">
+    <h3 align="center">Crypto Assets Card</h3>
+  </a>
+</p>
 
-## deploy
+## quick start
 
-```bash
-$ bun run deploy
+```html
+<img src="https://crypto-asset-card.vercel.app/Ethereum:${address}" />
 ```
